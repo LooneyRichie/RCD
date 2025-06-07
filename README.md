@@ -1,13 +1,13 @@
 # RCD: Magnum Opus Coding Dungeon
 
-**RCD** (Coding Dungeon) is a work-in-progress interactive terminal tool for exploring and learning the basics of dozens of programming languages and technologies. It features a retro menu-driven interface and provides code examples, explanations, and topic breakdowns for each language.
+**RCD** (Coding Dungeon) is a work-in-progress interactive terminal tool for exploring and learning the basics of dozens of programming languages and technologies. It features a retro menu-driven interface and provides code examples, explanations, and topic breakdowns for each language. It exhibits some of the very first programming languages all the way up to the modern and even esoteric programming languages.
 
 ---
 
 ## Features
 
 - **Slow-print intro** for a "dungeon" feel
-- A growing menu of 40+ languages and tech topics (Python, AI, Fortran, COBOL, Lisp, Mojo, R, Julia, Haskell, Scala, Elixir, Erlang, F#, Kotlin, Rust, Java, C++, C#, C, Assembly, JavaScript, HTML, XML, CSS, Ruby, Lua, Shell Scripting, Dart, Flutter, Go, Perl, SQL, PHP, Swift, Typescript, MATLAB, Carbon, Nim, Crystal, Terminal)
+- A growing menu of 50 languages and tech topics (Python, AI, Fortran, COBOL, Lisp, Mojo, R, Julia, Haskell, Scala, Elixir, Erlang, F#, Kotlin, Rust, Java, C++, C#, C, Assembly, JavaScript, HTML, XML, CSS, Ruby, Lua, Shell Scripting, Dart, Flutter, Go, Perl, SQL, PHP, Swift, Typescript, MATLAB, Carbon, Nim, Crystal, Forth, APL, Prolog, D, OCaml, Ada, AlmostBinary, Malbolge, Befunge, JSFuck, Terminal)
 - Submenus for each language with topics (Basics, OOP, Data Science, Web, etc.)
 - Detailed explanations and code samples for each topic
 - Terminal-based, no GUI required
