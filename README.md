@@ -18,7 +18,7 @@
 
 1. **Clone or Download**
     ```sh
-    git clone <your-repo-url>
+    git clone <https://github.com/LooneyRichie/RCD>
     cd RCD
     ```
 
